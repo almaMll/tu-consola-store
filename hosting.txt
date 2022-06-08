@@ -1,0 +1,12 @@
+https://app.infinityfree.net/accounts/epiz_31741031
+
+username: epiz_31741031!
+pass: tiendauso2021
+
+
+
+Detalles FTP
+Nombre de usuario FTP	epiz_31741031
+Contraseña FTP          7pHXe9KzLlh
+Nombre de host FTP	ftpupload.net
+Puerto FTP (opcional)	21
